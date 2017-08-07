@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Social Icons\n"
+"POT-Creation-Date: 2014-01-07 15:15+0100\n"
+"PO-Revision-Date: 2014-01-07 15:15+0100\n"
+"Last-Translator: Florent <contact@restezconnectes.fr>\n"
+"Language-Team: Florent Maillefaud <contact@restezconnectes.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/Florent/Sites/www/Plugin Wordpress/wp-social-"
+"icon\n"
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:44
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:44
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:44
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:44
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:44
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:50
+msgid "General"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:45
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:45
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:45
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:45
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:45
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:51
+msgid "Models"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:46
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:46
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:46
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:46
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:46
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:52
+msgid "Options"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:47
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:47
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:47
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:47
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:47
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:53
+msgid "CSS Stylesheet"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:48
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:48
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:48
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:48
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:48
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:54
+msgid "About"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:65
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:65
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:65
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:65
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:65
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:71
+msgid "Enter socials URL :"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:66
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:66
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:66
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:66
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:66
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:72
+msgid ""
+"Place this shortcode to the place you want :  do_shortcode('[wpsocialicon]')"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:95
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:126
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:154
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:172
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:95
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:129
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:157
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:175
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:95
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:129
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:157
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:175
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:95
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:129
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:157
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:175
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:95
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:129
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:157
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:175
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:101
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:135
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:163
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:185
+msgid "Save this settings"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:109
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:112
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:112
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:112
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:112
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:118
+msgid "Choose model of your socials icons :"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:139
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:148
+msgid "URL of icon sources :"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:139
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:148
+msgid "You have personal icons? Enter here URL of your icons."
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:139
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:148
+msgid "Please use this icon names: "
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:142
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:145
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:145
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:145
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:145
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:151
+msgid "Enable personnal folder ?"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:149
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:152
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:152
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:152
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:152
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:158
+msgid "Mobile version"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:150
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:153
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:153
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:153
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:153
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:159
+msgid "Disable in mobile version ?"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:166
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:169
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:169
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:169
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:169
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:175
+msgid "CSS style sheet code :"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:184
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:187
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:187
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:187
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:187
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:197
+msgid ""
+"This plugin has been developed for you for free by <a href=\"http://www."
+"restezconnectes.fr\" target=\"_blank\">Florent Maillefaud</ a>. It is "
+"royalty free, you can take it, modify it, distribute it as you see fit. <br /"
+"> <br />It would be desirable that I can get feedback on your potential "
+"changes to improve this plugin for all."
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon-admin.php:189
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:192
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:192
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:192
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:192
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:202
+msgid ""
+"If you want Donate (French Paypal) for my current and future developments:"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon.php:38
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon.php:39
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon.php:40
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon.php:40
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon.php:43
+#: Wordpress/wp-social-icon/trunk/wp-socialicon.php:45
+msgid "Settings"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.0/wp-socialicon.php:61
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon.php:62
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon.php:65
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon.php:65
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon.php:68
+#: Wordpress/wp-social-icon/trunk/wp-socialicon.php:70
+msgid "WP Social Icon settings"
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/tags/1.1/wp-socialicon-admin.php:110
+#: Wordpress/wp-social-icon/tags/1.2/wp-socialicon-admin.php:110
+#: Wordpress/wp-social-icon/tags/1.3/wp-socialicon-admin.php:110
+#: Wordpress/wp-social-icon/tags/1.4/wp-socialicon-admin.php:110
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:116
+msgid ""
+"The selection of icons is disable. You have activated the personal folder "
+"icons."
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:176
+msgid ""
+"Edit the CSS sheet of your maintenance page here. Click \"Reset\" and \"Save"
+"\" to retrieve the default style sheet."
+msgstr ""
+
+#: /Users/Florent/Sites/www/Plugin
+#: Wordpress/wp-social-icon/trunk/wp-socialicon-admin.php:180
+msgid "Reset default CSS stylesheet ?"
+msgstr ""
